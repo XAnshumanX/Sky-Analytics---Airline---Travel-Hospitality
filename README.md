@@ -5,11 +5,7 @@
 
 
 ## Tools Used
-- Microsoft Excel
-- Data Manipulation Functions
-- Data Visualization Techniques
-- Statistical Analysis
-- Dashboard Creation
+- Microsoft Excel, Power Query, Data Visualization, Data Analysis, KPI Tracking, ETL, Data Storytelling
 
 ## Industry Context
 In the aviation sector, analyzing airline and airport operations is essential for enhancing operational efficiency and customer satisfaction. By leveraging data analytics, stakeholders can optimize resources, streamline flight operations, and improve service quality within a complex and dynamic environment.
