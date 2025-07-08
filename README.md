@@ -1,9 +1,8 @@
-# Sky Analytics Excel Analysis & Dashboard
+# Sky Analytics: Travel & Hospitality Excel Project Analysis & Dashboard
 
 ![image](https://github.com/user-attachments/assets/af31dc22-8e3a-4ce1-9d7d-66e83c41cd04)
 
 
-# Sky Analytics: Travel & Hospitality Excel Project
 
 ## Tools Used
 - Microsoft Excel
@@ -55,7 +54,5 @@ This project includes:
 1. **Open Excel File**: Load the Sky Analytics Excel Dashboard.
 2. **Review Data Integrity**: Ensure all datasets are complete and formatted correctly.
 3. **Interactive Exploration**: Use the dashboard to explore trends in airline performance, cancellations, delays, and airport traffic.
-
-![Flight Operations Performance Overview](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1e1bc70-9ede-4c69-84fd-42c5605803a0/2928cc5e-21da-424a-a42c-0b0b58a3d786/image.png)
 
 This analysis empowers stakeholders to make informed decisions that enhance operational efficiency and improve customer satisfaction within the aviation industry.
